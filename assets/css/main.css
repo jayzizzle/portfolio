@@ -3322,3 +3322,7 @@ body.is-touch .poptrox-popup .closer {
     padding-left: 0;
   }
 }
+
+.custom-project-link {
+  padding-top: 10px;
+}
